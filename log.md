@@ -11,3 +11,34 @@
 Portfolio - https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage
 Regular Expersion(Javascript)-https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions
 
+### Day 2 August 4th, 2018
+
+
+**Today's Progress**: Did my 5th project on FreeCodeCamp(Portfolio) https://github.com/janm2001/Portfolio-V2.0
+
+**Thoughts:** Today website I made in 5 hours a lot of time were spent of searching for answers how to make it work but I manage it and now it works really great and beautiful.
+
+**Link to work:** 
+
+Regular Expersion(Javascript)-https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions
+
+### Day 3: August 5th, 2018
+
+
+**Today's Progress**: Finished all of the regular expression challenges from start to end
+
+**Thoughts:** They were easy to understand at the beggining but at the end it was a bit confusing why do I have to make so many changes and instructions were not the best but I manage to know a few things now about Regular Expressions
+
+**Link to work:** 
+FreeCodeCamp- Debugging and Basic Data Structor
+
+### Day 4: August 5th, 2018
+
+
+**Today's Progress**: Finished FreeCodeCamp challenges Debugging and Basic Data Structor
+
+**Thoughts:** My understanding of Javascript is getting better and better but still have some fields where I do not know so well, tommorow I will not only work on FreeCodeCamp challenges but also Back-end part of Colt Steele Web Development Bootcamp
+
+**Link to work:** 
+FreeCodeCamp- Introduction to Basic Algorithm Scripting https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+Web Dev Bootcamp- Introduction to Back end https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861542?start=0
